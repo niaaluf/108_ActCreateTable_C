@@ -1,0 +1,7 @@
+D:\PABD\Create_table\Create_table\bin\Debug\Create_table.exe.config
+D:\PABD\Create_table\Create_table\bin\Debug\Create_table.exe
+D:\PABD\Create_table\Create_table\bin\Debug\Create_table.pdb
+D:\PABD\Create_table\Create_table\obj\Debug\Create_table.csproj.AssemblyReference.cache
+D:\PABD\Create_table\Create_table\obj\Debug\Create_table.csproj.CoreCompileInputs.cache
+D:\PABD\Create_table\Create_table\obj\Debug\Create_table.exe
+D:\PABD\Create_table\Create_table\obj\Debug\Create_table.pdb
